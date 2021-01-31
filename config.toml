@@ -1,0 +1,4 @@
+baseURL = "https://clipartroplokopo.vercel.app"
+languageCode = "en-us"
+title = "Clip Art World"
+theme = "tale-hugo-master"
